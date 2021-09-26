@@ -1,0 +1,15 @@
+C:\Users\nyandika\source\repos\closeupsystem\bin\Debug\net6.0\closeupsystem.exe
+C:\Users\nyandika\source\repos\closeupsystem\bin\Debug\net6.0\closeupsystem.deps.json
+C:\Users\nyandika\source\repos\closeupsystem\bin\Debug\net6.0\closeupsystem.runtimeconfig.json
+C:\Users\nyandika\source\repos\closeupsystem\bin\Debug\net6.0\closeupsystem.dll
+C:\Users\nyandika\source\repos\closeupsystem\bin\Debug\net6.0\ref\closeupsystem.dll
+C:\Users\nyandika\source\repos\closeupsystem\bin\Debug\net6.0\closeupsystem.pdb
+C:\Users\nyandika\source\repos\closeupsystem\obj\Debug\net6.0\closeupsystem.csproj.AssemblyReference.cache
+C:\Users\nyandika\source\repos\closeupsystem\obj\Debug\net6.0\closeupsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyandika\source\repos\closeupsystem\obj\Debug\net6.0\closeupsystem.AssemblyInfoInputs.cache
+C:\Users\nyandika\source\repos\closeupsystem\obj\Debug\net6.0\closeupsystem.AssemblyInfo.cs
+C:\Users\nyandika\source\repos\closeupsystem\obj\Debug\net6.0\closeupsystem.csproj.CoreCompileInputs.cache
+C:\Users\nyandika\source\repos\closeupsystem\obj\Debug\net6.0\closeupsystem.dll
+C:\Users\nyandika\source\repos\closeupsystem\obj\Debug\net6.0\ref\closeupsystem.dll
+C:\Users\nyandika\source\repos\closeupsystem\obj\Debug\net6.0\closeupsystem.pdb
+C:\Users\nyandika\source\repos\closeupsystem\obj\Debug\net6.0\closeupsystem.genruntimeconfig.cache
